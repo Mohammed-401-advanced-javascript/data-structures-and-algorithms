@@ -1,5 +1,4 @@
 # Challenge Summary
-<!-- Short summary or background information -->
 we created a function called fizzbuzztree that types fizz if the number is divisible by 3 and type buzz if the number is divisible by 5 and type fizzbuzz if the number is divisible by 3 and 5 and type the number if it is not divisible by 3 and 5.
 
 ## Challenge Description
